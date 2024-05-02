@@ -1,11 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
     margin: 0;
     box-sizing: border-box;
-}
-
-.page {
-    width: 100wv;
-    height: 100vh;
 }
 
 .container {
